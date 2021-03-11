@@ -1,0 +1,9 @@
+<li class="mb-2 lead list-group-item d-flex justify-content-between align-items-center">
+	{{burger_name}}
+
+	{{#unless devoured}}
+		<button type="button" class="change-devoured btn btn-primary btn-lg" data-id="{{id}}" data-newdevoured="{{devoured}}">
+			DEVOUR ME
+		</button>
+	{{/unless}}
+</li>

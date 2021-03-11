@@ -1,0 +1,9 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "A burger logger made with MySQL, Node, Express and Handlebars",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
