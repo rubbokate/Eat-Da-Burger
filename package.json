@@ -1,9 +1,20 @@
 {
-  "name": "burger",
+  "name": "eat-da-burger",
   "version": "1.0.0",
-  "description": "A burger logger made with MySQL, Node, Express and Handlebars",
+  "description": "A burger logger made using MySQL, Node, Express, and Handlebars. Keep track of the burgers you'd like to eat and ones that you have already devoured!",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubbokate/Eat-Da-Burger.git"
+  },
+  "author": "Kaitlyn Rubbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubbokate/Eat-Da-Burger/issues"
+  },
+  "homepage": "https://github.com/rubbokate/Eat-Da-Burger#readme"
 }
