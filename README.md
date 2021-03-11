@@ -14,5 +14,5 @@ Technologies used
 
 ![Screen Shot](public/assets/images/screen-shot.png)
 
-Deployed Application: [https://kassimariemc-burger.herokuapp.com/](https://kassimariemc-burger.herokuapp.com/)
+Deployed Application: 
 
